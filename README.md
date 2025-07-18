@@ -54,7 +54,7 @@ The analysis of how casual riders and annual members use Cyclistic bikes differe
 
 * **Usage Patterns by Day of Week:**
     * **Members consistently use bikes more frequently on weekdays,** indicating a strong tendency for commuting or routine daily trips.
-    * **Casual riders predominantly use bikes on weekends,** with a clear peak in total rides on Saturdays and Sundays. Their weekday usage is significantly lower. This pattern strongly suggests leisure or recreational purposes for their rides. (As observed in the "Total Rides by Day of Week and User Type" chart).
+    * **Casual riders predominantly use bikes on weekends,** with a clear peak in total rides on Saturdays and Sundays. Their weekday usage is significantly lower. This pattern strongly suggests leisure or recreational purposes for their rides.
 
 * **Overall Ride Volume:**
     * While casual riders take longer trips, **annual members contribute a substantially higher total number of rides** (approx. 720,313 rides for members vs. 71,433 for casuals in the analyzed period), highlighting their consistent engagement and value.
